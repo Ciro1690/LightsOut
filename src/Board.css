@@ -1,0 +1,12 @@
+.Board {
+  margin: 0 auto;
+}
+
+.Board-table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Board-win {
+  color: white;
+}
